@@ -1,2 +1,2 @@
 # Python-extra
-Flex python opdrachten van Kjell Durge SD1C
+Flex python opdrachten van Kjell SD1C
